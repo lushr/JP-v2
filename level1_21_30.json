@@ -1,0 +1,152 @@
+[
+  {
+    "english": "This new computer is faster.",
+    "japanese": "この あたらしい コンピューター の ほう が はやい。",
+    "note": "Focus: の ほう が for comparison.",
+    "tags": [
+      {
+        "icon": "bi-laptop",
+        "label": "Tech"
+      },
+      {
+        "icon": "bi-arrow-up",
+        "label": "Comparison"
+      }
+    ]
+  },
+  {
+    "english": "This TV is very heavy but really small.",
+    "japanese": "この テレビ は とても おもい けど、めっちゃ ちいさい。",
+    "note": "Focus: けど contrast.",
+    "tags": [
+      {
+        "icon": "bi-tv",
+        "label": "Object"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
+    ]
+  },
+  {
+    "english": "This book was so long and boring.",
+    "japanese": "この ほん は めっちゃ ながくて、つまらなかった。",
+    "note": "Focus: くて + past negative-like adjective form.",
+    "tags": [
+      {
+        "icon": "bi-book",
+        "label": "Book"
+      },
+      {
+        "icon": "bi-clock-history",
+        "label": "Past adj"
+      }
+    ]
+  },
+  {
+    "english": "I always oversleep and I'm always late.",
+    "japanese": "いつも ねぼう して、いつも おくれる。",
+    "note": "Focus: て-form joining actions.",
+    "tags": [
+      {
+        "icon": "bi-alarm",
+        "label": "Habit"
+      },
+      {
+        "icon": "bi-link-45deg",
+        "label": "て-form"
+      }
+    ]
+  },
+  {
+    "english": "My room is between an izakaya and a kindergarten. I never sleep.",
+    "japanese": "わたし の へや は いざかや と ようちえん の あいだ。ぜんぜん ねない。",
+    "note": "Focus: と for joining nouns + negative verb.",
+    "tags": [
+      {
+        "icon": "bi-house",
+        "label": "Place"
+      },
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      }
+    ]
+  },
+  {
+    "english": "This cat café smells terrible.",
+    "japanese": "この ねこ カフェ は におい が ひどい。",
+    "note": "Focus: が with におい.",
+    "tags": [
+      {
+        "icon": "bi-cup-hot",
+        "label": "Cafe"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adjective"
+      }
+    ]
+  },
+  {
+    "english": "My dog doesn't like green chairs.",
+    "japanese": "わたし の いぬ は みどり の いす が きらい。",
+    "note": "Focus: が きらい.",
+    "tags": [
+      {
+        "icon": "bi-heartbreak",
+        "label": "きらい"
+      },
+      {
+        "icon": "bi-palette",
+        "label": "Colour"
+      }
+    ]
+  },
+  {
+    "english": "Her boyfriend thinks Abe Hiroshi is sexy.",
+    "japanese": "かのじょ の かれし は あべ ひろし は セクシー だ と おもう。",
+    "note": "Focus: と おもう.",
+    "tags": [
+      {
+        "icon": "bi-chat-quote",
+        "label": "と おもう"
+      },
+      {
+        "icon": "bi-person-heart",
+        "label": "Opinion"
+      }
+    ]
+  },
+  {
+    "english": "My teacher said cats are evil.",
+    "japanese": "せんせい は ねこ は わるい と いっていた。",
+    "note": "Focus: と いっていた.",
+    "tags": [
+      {
+        "icon": "bi-chat-left-quote",
+        "label": "と いっていた"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adjective"
+      }
+    ]
+  },
+  {
+    "english": "He thinks she is cute but scary.",
+    "japanese": "かれ は かのじょ は かわいい けど、こわい と おもう。",
+    "note": "Focus: けど inside と おもう.",
+    "tags": [
+      {
+        "icon": "bi-chat-quote",
+        "label": "と おもう"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
+    ]
+  }
+]

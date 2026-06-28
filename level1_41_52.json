@@ -1,0 +1,182 @@
+[
+  {
+    "english": "The convenience store has the best snacks.",
+    "japanese": "コンビニ は おかし が さいこう。",
+    "note": "Focus: が with opinion phrase.",
+    "tags": [
+      {
+        "icon": "bi-shop",
+        "label": "Shop"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "さいこう"
+      }
+    ]
+  },
+  {
+    "english": "I always find fun books at Village Vanguard.",
+    "japanese": "いつも ヴィレッジヴァンガード で おもしろい ほん を みつける。",
+    "note": "Focus: place で + object を + verb.",
+    "tags": [
+      {
+        "icon": "bi-geo-alt",
+        "label": "Place で"
+      },
+      {
+        "icon": "bi-book",
+        "label": "Books"
+      }
+    ]
+  },
+  {
+    "english": "I want to stay in a ryokan in Hokkaido.",
+    "japanese": "ほっかいどう の りょかん に とまりたい。",
+    "note": "Focus: に + たい form.",
+    "tags": [
+      {
+        "icon": "bi-building",
+        "label": "Place に"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "たい form"
+      }
+    ]
+  },
+  {
+    "english": "I never bring my textbook.",
+    "japanese": "きょうかしょ は ぜんぜん もっていかない。",
+    "note": "Focus: ぜんぜん + negative verb.",
+    "tags": [
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      },
+      {
+        "icon": "bi-journal-text",
+        "label": "Study"
+      }
+    ]
+  },
+  {
+    "english": "I always forget my phone.",
+    "japanese": "いつも けいたい を わすれる。",
+    "note": "Focus: habitual present verb.",
+    "tags": [
+      {
+        "icon": "bi-phone",
+        "label": "Phone"
+      },
+      {
+        "icon": "bi-arrow-repeat",
+        "label": "Habit"
+      }
+    ]
+  },
+  {
+    "english": "I forgot my keys last week.",
+    "japanese": "せんしゅう かぎ を わすれた。",
+    "note": "Focus: past verb わすれた.",
+    "tags": [
+      {
+        "icon": "bi-calendar3",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
+    ]
+  },
+  {
+    "english": "My head hurts.",
+    "japanese": "あたま が いたい。",
+    "note": "Focus: body part が いたい.",
+    "tags": [
+      {
+        "icon": "bi-heart-pulse",
+        "label": "Body"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adjective"
+      }
+    ]
+  },
+  {
+    "english": "I don't want to go to bed.",
+    "japanese": "ねたくない。",
+    "note": "Focus: negative たい form.",
+    "tags": [
+      {
+        "icon": "bi-moon",
+        "label": "Sleep"
+      },
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      }
+    ]
+  },
+  {
+    "english": "I want to leave the house by 6:30.",
+    "japanese": "ろくじはん まで に いえ を でたい。",
+    "note": "Focus: までに + でたい.",
+    "tags": [
+      {
+        "icon": "bi-clock",
+        "label": "までに"
+      },
+      {
+        "icon": "bi-door-open",
+        "label": "でる"
+      }
+    ]
+  },
+  {
+    "english": "I'll arrive at the party at 10:30.",
+    "japanese": "じゅうじはん に パーティー に つく。",
+    "note": "Focus: exact time に + place に + つく.",
+    "tags": [
+      {
+        "icon": "bi-clock",
+        "label": "Time に"
+      },
+      {
+        "icon": "bi-geo-alt",
+        "label": "Place に"
+      }
+    ]
+  },
+  {
+    "english": "I helped prepare for the event yesterday.",
+    "japanese": "きのう イベント の じゅんび を てつだった。",
+    "note": "Focus: past verb てつだった.",
+    "tags": [
+      {
+        "icon": "bi-calendar3",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-hands",
+        "label": "Help"
+      }
+    ]
+  },
+  {
+    "english": "I appeared in a library video.",
+    "japanese": "としょかん の どうが に でた。",
+    "note": "Focus: どうが に でる.",
+    "tags": [
+      {
+        "icon": "bi-camera-video",
+        "label": "Video"
+      },
+      {
+        "icon": "bi-door-open",
+        "label": "でる"
+      }
+    ]
+  }
+]

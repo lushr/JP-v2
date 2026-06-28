@@ -1,0 +1,152 @@
+[
+  {
+    "english": "My dog thinks I am crazy.",
+    "japanese": "わたし の いぬ は わたし は おかしい と おもう。",
+    "note": "Focus: と おもう.",
+    "tags": [
+      {
+        "icon": "bi-chat-quote",
+        "label": "と おもう"
+      },
+      {
+        "icon": "bi-emoji-smile",
+        "label": "Funny"
+      }
+    ]
+  },
+  {
+    "english": "Her new dress is hideous.",
+    "japanese": "かのじょ の あたらしい ドレス は ひどい。",
+    "note": "Focus: adjective before noun + adjective sentence.",
+    "tags": [
+      {
+        "icon": "bi-palette",
+        "label": "Clothes"
+      },
+      {
+        "icon": "bi-type",
+        "label": "Adjective"
+      }
+    ]
+  },
+  {
+    "english": "Music is the best. It always makes me happy.",
+    "japanese": "おんがく は さいこう。いつも うれしい。",
+    "note": "Focus: short simple opinion sentences.",
+    "tags": [
+      {
+        "icon": "bi-music-note-beamed",
+        "label": "Music"
+      },
+      {
+        "icon": "bi-heart",
+        "label": "Opinion"
+      }
+    ]
+  },
+  {
+    "english": "I never drink water.",
+    "japanese": "みず は ぜんぜん のまない。",
+    "note": "Focus: ぜんぜん + negative verb.",
+    "tags": [
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      },
+      {
+        "icon": "bi-cup-straw",
+        "label": "Drink"
+      }
+    ]
+  },
+  {
+    "english": "I forgot my lunch again.",
+    "japanese": "また おべんとう を わすれた。",
+    "note": "Focus: past verb わすれた.",
+    "tags": [
+      {
+        "icon": "bi-arrow-counterclockwise",
+        "label": "また"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
+    ]
+  },
+  {
+    "english": "I made this ugly cake.",
+    "japanese": "この ぶさいく な ケーキ を つくった。",
+    "note": "Focus: な-adjective before noun + past verb.",
+    "tags": [
+      {
+        "icon": "bi-cake2",
+        "label": "Food"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
+    ]
+  },
+  {
+    "english": "I always use the slow elevator.",
+    "japanese": "いつも おそい エレベーター を つかう。",
+    "note": "Focus: habitual present verb.",
+    "tags": [
+      {
+        "icon": "bi-arrow-repeat",
+        "label": "Habit"
+      },
+      {
+        "icon": "bi-play",
+        "label": "Non-past"
+      }
+    ]
+  },
+  {
+    "english": "At three a.m. I finally got home.",
+    "japanese": "ごぜん さんじ に やっと いえ に かえった。",
+    "note": "Focus: exact time + past verb.",
+    "tags": [
+      {
+        "icon": "bi-clock",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-house",
+        "label": "Home"
+      }
+    ]
+  },
+  {
+    "english": "Walking is boring but driving is dangerous.",
+    "japanese": "あるく の は つまらない けど、うんてん は あぶない。",
+    "note": "Focus: verb + の turns an action into a noun.",
+    "tags": [
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      },
+      {
+        "icon": "bi-type",
+        "label": "の nominaliser"
+      }
+    ]
+  },
+  {
+    "english": "The Shinkansen is fast but sooo expensive.",
+    "japanese": "しんかんせん は はやい けど、めっちゃ たかい。",
+    "note": "Focus: けど with two い-adjectives.",
+    "tags": [
+      {
+        "icon": "bi-train-front",
+        "label": "Travel"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
+    ]
+  }
+]

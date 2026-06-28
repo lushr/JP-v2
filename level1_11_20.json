@@ -1,0 +1,156 @@
+[
+  {
+    "english": "This café is stylish and has a good atmosphere.",
+    "japanese": "この カフェ は おしゃれ で、ふんいき が いい。",
+    "note": "Focus: な-adjective joining with で.",
+    "tags": [
+      {
+        "icon": "bi-cup-hot",
+        "label": "Cafe"
+      },
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      }
+    ]
+  },
+  {
+    "english": "Her guitar is expensive but amazing.",
+    "japanese": "かのじょ の ギター は たかい けど、さいこう。",
+    "note": "Focus: けど contrast.",
+    "tags": [
+      {
+        "icon": "bi-music-note",
+        "label": "Music"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
+    ]
+  },
+  {
+    "english": "That shop was the best and not expensive.",
+    "japanese": "あの みせ は さいこう で、やすくなかった。",
+    "note": "Focus: で + past negative い-adjective.",
+    "tags": [
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      },
+      {
+        "icon": "bi-dash-circle",
+        "label": "Negative"
+      },
+      {
+        "icon": "bi-clock-history",
+        "label": "Past"
+      }
+    ]
+  },
+  {
+    "english": "I'm going to buy a bigger notebook.",
+    "japanese": "もっと おおきい ノート を かう。",
+    "note": "Focus: non-past verb for future meaning.",
+    "tags": [
+      {
+        "icon": "bi-journal-text",
+        "label": "Object を"
+      },
+      {
+        "icon": "bi-arrow-right",
+        "label": "Future"
+      }
+    ]
+  },
+  {
+    "english": "I want a stylish pink pen.",
+    "japanese": "おしゃれ な ピンク の ペン が ほしい。",
+    "note": "Focus: な-adjective before a noun + が ほしい.",
+    "tags": [
+      {
+        "icon": "bi-pen",
+        "label": "Stationery"
+      },
+      {
+        "icon": "bi-stars",
+        "label": "ほしい"
+      }
+    ]
+  },
+  {
+    "english": "Those clothes are old and dirty.",
+    "japanese": "あの ふく は ふるくて、よごれている。",
+    "note": "Focus: い-adjective joining with くて + ている.",
+    "tags": [
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      },
+      {
+        "icon": "bi-arrow-repeat",
+        "label": "ている"
+      }
+    ]
+  },
+  {
+    "english": "That library is very far and small.",
+    "japanese": "あの としょかん は とても とおくて、ちいさい。",
+    "note": "Focus: い-adjective joining with くて.",
+    "tags": [
+      {
+        "icon": "bi-book",
+        "label": "Library"
+      },
+      {
+        "icon": "bi-link-45deg",
+        "label": "Adj join"
+      }
+    ]
+  },
+  {
+    "english": "This hotel is old but clean.",
+    "japanese": "この ホテル は ふるい けど、きれい。",
+    "note": "Focus: けど with い-adjective + な-adjective.",
+    "tags": [
+      {
+        "icon": "bi-building",
+        "label": "Place"
+      },
+      {
+        "icon": "bi-link",
+        "label": "けど"
+      }
+    ]
+  },
+  {
+    "english": "This weekend I'll definitely make dinner.",
+    "japanese": "こんしゅうまつ は ぜったい ばんごはん を つくる。",
+    "note": "Focus: non-past verb for future meaning.",
+    "tags": [
+      {
+        "icon": "bi-calendar-week",
+        "label": "Time"
+      },
+      {
+        "icon": "bi-play",
+        "label": "Non-past"
+      }
+    ]
+  },
+  {
+    "english": "Yesterday I found a quiet little café.",
+    "japanese": "きのう しずかな、ちいさい カフェ を みつけた。",
+    "note": "Focus: adjective + adjective + noun + past verb.",
+    "tags": [
+      {
+        "icon": "bi-cup-hot",
+        "label": "Cafe"
+      },
+      {
+        "icon": "bi-play-circle",
+        "label": "Past verb"
+      }
+    ]
+  }
+]
