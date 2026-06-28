@@ -34,7 +34,6 @@ async function loadDeck(levelIndex = 0) {
     answerCard.classList.add('hidden');
     revealButton.classList.add('hidden');
     chipRow.innerHTML = '';
-    noteText.textContent = '';
 
     const response = await fetch(selectedLevel.file);
     if (!response.ok) throw new Error(`Could not load ${selectedLevel.file}.`);
@@ -45,11 +44,9 @@ async function loadDeck(levelIndex = 0) {
     shuffleDeck();
     showCard();
   } catch (error) {
-    englishPrompt.textContent = `Could not load ${selectedLevel.file}. Check the JSON file is in the same folder as index.html.`;
-    levelTitle.textContent = 'File missing';
+    englishPrompt.textContent = `Could not load ${selectedLevel.file}.`;
     progressText.textContent = '0 / 0';
     progressBar.style.width = '0%';
-    revealButton.classList.add('hidden');
   }
 }
 
@@ -71,25 +68,28 @@ function shuffleDeck() {
 function showCard() {
   if (!deck.length) return;
 
-  if (currentIndex >= order.length) {
-    shuffleDeck();
-  }
+  if (currentIndex >= order.length) shuffleDeck();
 
   currentCard = deck[order[currentIndex]];
   englishPrompt.textContent = currentCard.english;
   japaneseAnswer.textContent = currentCard.japanese;
-  noteText.textContent = currentCard.note || '';
+
   answerCard.classList.add('hidden');
   revealButton.classList.remove('hidden');
+
   renderChips(currentCard.tags || []);
   updateProgress();
 }
 
 function renderChips(tags) {
   chipRow.innerHTML = '';
-  tags.forEach((tag, index) => {
+
+  tags.forEach(tag => {
     const chip = document.createElement('span');
-    chip.className = `chip ${['pink', 'blue', 'yellow'][index % 3]}`;
+
+    const colour = tag.colour || 'blue';
+    chip.className = `chip ${colour}`;
+
     chip.innerHTML = `<i class="bi ${tag.icon}"></i> ${tag.label}`;
     chipRow.appendChild(chip);
   });
@@ -102,9 +102,7 @@ function updateProgress() {
 }
 
 levelButtons.forEach((button, index) => {
-  button.addEventListener('click', () => {
-    loadDeck(index);
-  });
+  button.addEventListener('click', () => loadDeck(index));
 });
 
 revealButton.addEventListener('click', () => {
