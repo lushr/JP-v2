@@ -5,6 +5,8 @@
   --blue-strong: #76c9e8;
   --yellow: #fff3b0;
   --yellow-strong: #efcf55;
+  --green: #c9f5dc;
+  --green-strong: #79d89f;
   --cream: #fffaf0;
   --ink: #161616;
   --shadow: 0 14px 30px rgba(30, 30, 30, 0.12);
@@ -12,9 +14,7 @@
   --radius-small: 18px;
 }
 
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 html,
 body {
@@ -86,11 +86,11 @@ h1 {
 }
 
 .icon-button:active,
-.primary-button:active {
+.primary-button:active,
+.level-button:active {
   transform: translate(2px, 2px);
   box-shadow: 2px 2px 0 var(--ink);
 }
-
 
 .level-picker {
   margin-top: 14px;
@@ -112,11 +112,6 @@ h1 {
 
 .level-button.active {
   background: var(--pink);
-}
-
-.level-button:active {
-  transform: translate(1px, 1px);
-  box-shadow: 2px 2px 0 var(--ink);
 }
 
 .progress-wrap {
@@ -173,12 +168,12 @@ h1 {
   padding: 7px 10px;
   font-weight: 800;
   font-size: 0.82rem;
-  background: var(--blue);
 }
 
+.chip.blue { background: var(--blue); }
 .chip.pink { background: var(--pink); }
 .chip.yellow { background: var(--yellow); }
-.chip.blue { background: var(--blue); }
+.chip.green { background: var(--green); }
 
 .prompt-label,
 .answer-label {
@@ -207,9 +202,7 @@ h2 {
 }
 
 .note-text {
-  margin: 12px 0 0;
-  font-size: 0.95rem;
-  font-weight: 700;
+  display: none;
 }
 
 .primary-button {
@@ -223,18 +216,14 @@ h2 {
   box-shadow: 6px 6px 0 var(--ink);
 }
 
-.primary-button.pink {
-  background: var(--pink);
-}
+.primary-button.pink { background: var(--pink); }
 
 .primary-button.yellow {
   margin-top: 18px;
   background: #fff;
 }
 
-.hidden {
-  display: none;
-}
+.hidden { display: none; }
 
 @media (max-height: 700px) {
   .app-shell {
@@ -243,20 +232,14 @@ h2 {
     padding-bottom: 10px;
   }
 
-  .top-card {
-    padding: 12px;
-  }
+  .top-card { padding: 12px; }
 
   .prompt-card {
     min-height: 210px;
     padding: 16px;
   }
 
-  h2 {
-    font-size: clamp(1.35rem, 7vw, 2rem);
-  }
+  h2 { font-size: clamp(1.35rem, 7vw, 2rem); }
 
-  .primary-button {
-    padding: 14px 12px;
-  }
+  .primary-button { padding: 14px 12px; }
 }
