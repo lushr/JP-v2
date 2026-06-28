@@ -1,7 +1,7 @@
 [
   {
-    "english": "Last night I watched this awesome old show.",
-    "japanese": "ゆうべ この めっちゃ ふるい ばんぐみ を みた。さいこう だった。",
+    "english": "01. Last night, I watched the best old TV show!",
+    "japanese": "ゆうべ、この さいこう の ふるい ばんぐみ を みた よ！",
     "note": "Focus: past short-form verb + past な-style ending.",
     "tags": [
       {
@@ -19,8 +19,8 @@
     ]
   },
   {
-    "english": "Harajuku was always colourful and annoyingly crowded.",
-    "japanese": "はらじゅく は いつも カラフル で、めっちゃ こんでいた。",
+    "english": "02. Harajuku was always colourful, but it was so crowded it was a hassle.",
+    "japanese": "はらじゅく は いつも カラフル だけど、こんでいて めんどくさかった。",
     "note": "Focus: な-adjective joining with で.",
     "tags": [
       {
@@ -68,8 +68,8 @@
     ]
   },
   {
-    "english": "This curry is delicious but very spicy.",
-    "japanese": "この カレー は おいしい けど、めっちゃ からい。",
+    "english": "05. I make delicious, spicy curry.",
+    "japanese": "おいしくて からい カレー を つくる。",
     "note": "Focus: けど with two い-adjectives.",
     "tags": [
       {
@@ -83,8 +83,8 @@
     ]
   },
   {
-    "english": "Koenji was scary at night.",
-    "japanese": "よる の こうえんじ は こわかった。",
+    "english": "06. Kabukichō was scary at night.",
+    "japanese": "よる の かぶきちょう は こわかった。",
     "note": "Focus: past い-adjective.",
     "tags": [
       {
@@ -98,8 +98,8 @@
     ]
   },
   {
-    "english": "Shinjuku Station is the worst.",
-    "japanese": "しんじゅくえき は さいてい だ。",
+    "english": "07. I always get lost at Shinjuku Station. I never go there.",
+    "japanese": "しんじゅくえき で いつも まよう。ぜんぜん いかない。",
     "note": "Focus: plain present ending with だ.",
     "tags": [
       {
@@ -128,8 +128,8 @@
     ]
   },
   {
-    "english": "I want to buy comfortable black jeans.",
-    "japanese": "はきやすい、くろい ジーンズ を かいたい。",
+    "english": "09. Next time I want to buy a soft black scarf.",
+    "japanese": "こんど やわらかい くろい マフラー を かいたい。",
     "note": "Focus: 〜たい + adjectives before a noun.",
     "tags": [
       {
